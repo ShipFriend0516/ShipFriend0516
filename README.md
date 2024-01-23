@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
 
-- 🔭 I’m currently working on [EcoChoice](https://github.com/ShipFriend0516/dbproject)
+- 🔭 I’m currently working on [EcoChoice](https://github.com/ShipFriend0516/Primitive)
 
 - 🌱 I’m currently learning **Typescript**
 
