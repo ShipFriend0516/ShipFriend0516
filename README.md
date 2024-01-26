@@ -33,5 +33,5 @@
 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" />
-    <img alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+    <img width="50px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
 </div>
