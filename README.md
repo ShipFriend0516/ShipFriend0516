@@ -32,6 +32,6 @@
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
 <div>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" /></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" />
     <img alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
-</b div>
+</div>
