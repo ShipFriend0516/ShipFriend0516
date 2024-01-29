@@ -1,6 +1,5 @@
    
 <h1 align="center">Hi 👋, I'm Jeongwoo Seo  <img width="40px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/> </h1>
-<h3 align="center">I'm a frontend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
 
