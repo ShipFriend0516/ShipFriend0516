@@ -1,8 +1,6 @@
 <h1 align="center" style='padding: 0; position: relative;'>
-   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi!%20I'm%20Jeongwoo&fontSize=90&customColorList=23" />   
-      
+   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi!%20I'm%20Jeongwoo&fontSize=90&customColorList=23" />  
 </h1>
-
 
 - 🔭 I’m currently working on [Primitive](https://github.com/ShipFriend0516/Primitive)
 
@@ -10,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@shipfriend](https://velog.io/@shipfriend)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **shipfriend4371@naver.com**
 
