@@ -1,9 +1,8 @@
-   
-<h1 align="center" style='padding: 0'>
-   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=200&size=36&duration=3000&pause=1000&color=08B448&center=true&repeat=false&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeongwoo+Seo" alt="Typing SVG" />
-<img align="right" width="40px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+<h1 align="center" style='padding: 0; position: relative;'>
+   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi!%20I'm%20Jeongwoo&fontSize=90&customColorList=23" />   
+      
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
+
 
 - 🔭 I’m currently working on [Primitive](https://github.com/ShipFriend0516/Primitive)
 
@@ -15,7 +14,9 @@
 
 - 📫 How to reach me **shipfriend4371@naver.com**
 
-<h3 align="left">🍀 Languages and Tools:</h3>
+<h3 align="left">🍀 Languages and Tools:
+   <img align="center" width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,3 +37,5 @@
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" />
 </div>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
