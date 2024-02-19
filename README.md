@@ -1,6 +1,8 @@
    
-<h1 align="center">Hi 👋, I'm Jeongwoo Seo  <img width="40px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/> </h1>
-
+<h1 align="center" style='padding: 0'>
+   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=200&size=36&duration=3000&pause=1000&color=08B448&center=true&repeat=false&random=false&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeongwoo+Seo" alt="Typing SVG" />
+<img align="right" width="40px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
 
 - 🔭 I’m currently working on [Primitive](https://github.com/ShipFriend0516/Primitive)
