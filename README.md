@@ -1,20 +1,17 @@
 <h1 align="center" style='padding: 0; position: relative;'>
    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hi!%20I'm%20Jeongwoo&fontSize=90&customColorList=23" />  
 </h1>
+<div align='center'> 
 
-- 🔭 I’m currently working on [Primitive](https://github.com/ShipFriend0516/Primitive)
+🌱 I’m currently learning **Typescript**
 
-- 🌱 I’m currently learning **Typescript**
+📝 Velog [shipfriend.log](https://velog.io/@shipfriend)
 
-- 📝 I regularly write articles on [https://velog.io/@shipfriend](https://velog.io/@shipfriend)
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **shipfriend4371@naver.com**
-
-<h3 align="left">🍀 Languages and Tools:
+<h3 >🍀 Languages and Skills:
    <img align="center" width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
 </h3>
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,14 +23,10 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-
-<div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" />
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&theme=tokyonight&locale=kr&layout=compact" alt="shipfriend0516" />
 </div>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
