@@ -3,8 +3,7 @@
 </h1>
 <div align='center'> 
 
-🌱 I’m currently learning **Typescript**
-
+### 😎 Blog
 📝 Velog [shipfriend.log](https://velog.io/@shipfriend)
 
 
