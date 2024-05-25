@@ -4,7 +4,7 @@
 <div align='left'> 
 
 ### 😎 Recent Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shipfriend)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shipfriend)]()
 
 
 <h3 >🍀 My Skills
