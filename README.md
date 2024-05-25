@@ -4,8 +4,8 @@
 <div align='left'> 
 
 ### 😎 Recent Post
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shipfriend)]()
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/?name=shipfriend)](https://velog-readme-stats.vercel.app/api/redirect?name=shipfriend)
 
 <h3 >🍀 My Skills
    <img align="center" width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
