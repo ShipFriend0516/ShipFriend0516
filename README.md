@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Express-000000??style=flatr&logo=Express&logoColor=white">
 </div>
 
-### Blog
+### 📝 Blog
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://oracion.hashnode.dev)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@shipfriend/posts)
 
