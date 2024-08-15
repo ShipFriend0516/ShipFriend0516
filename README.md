@@ -3,7 +3,7 @@
 - I like to develop myself 🌿
 
 <h3 >🍀 Skills
-   <img align="center" width="20px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
+   <img align="center" width="10px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
 </h3>
 
 <div>
