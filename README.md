@@ -29,10 +29,4 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jeongwooseo&label=Profile%20views&color=cbece4&style=flat" alt="jeongwooseo" /> </p>
