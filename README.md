@@ -7,17 +7,18 @@
 </h3>
 
 <div>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E??style=flatr&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6??style=flatr&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/REACT-61DAFB??style=flatr&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/NEXTJS-000000??style=flatr&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NODEJS-339933??style=flatr&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000??style=flatr&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
 </div>
 
 ### 📝 Blog
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://oracion.hashnode.dev)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@shipfriend/posts)
+<a href="https://oraciondev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-557C56?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://velog.io/@shipfriend/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt='velog'/></a>
+
 
 ### 🚀 Cards
 
