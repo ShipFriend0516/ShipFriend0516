@@ -16,15 +16,6 @@
 </div>
 
 ### 📝 Blog
-<a href="https://oraciondev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-557C56?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://velog.io/@shipfriend/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt='velog'/></a>
-
-
-### 🚀 Cards
-
-|Recent Post| Most Used Skills|
-|---|---|
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/?name=shipfriend)](https://velog-readme-stats.vercel.app/api/redirect?name=shipfriend) | |
 
 [![최신 글](https://shipfriend.vercel.app/api/posts/recent)](https://shipfriend.vercel.app/api/redirect/recent)
 
