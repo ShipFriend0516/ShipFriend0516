@@ -1,25 +1,26 @@
-### 🦆 SEO JEONGWOO
-- I'm frontend developer 💻
-- I like to develop myself 🌿
+<h1>Developer Jeongwoo Seo 🌿</h1>
 
-<h3 >🍀 Skills
-   <img align="center" width="10px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/>
-</h3>
+\- 안녕하세요. 더 나은 개발자가 되기 위해 노력하고 있습니다.
 
-<div>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-</div>
+<h2 style="color: #333333;">Blog  <img align="center" width="6px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/></h2>
 
-### 📝 Blog
+\- [개인 개발 블로그](https://shipfriend.vercel.app)에 포스팅하고 있습니다.
+<br/>
 
 [![최신 글](https://shipfriend.vercel.app/api/posts/recent)](https://shipfriend.vercel.app/api/redirect/recent)
+ 
+<h2 style="color: #333333;">Projects</h2>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&locale=kr&layout=compact" alt="shipfriend0516" />
+\- [ShipFriend TechBlog](https://github.com/ShipFriend0516/TechBlog) | <span style="color: #666666;">(2025/01 ~ 2024/04)</span>
+
+\- [WebRTC 면접 스터디 플랫폼 PREVIEW](https://github.com/boostcampwm-2024/web27-Preview) | (2024/11 ~ 2024/12)
+
+\- [교내 동아리 홈페이지](https://github.com/ShipFriend0516/Primitive) | (2024/03 ~ 2024/06)
+
+
+ 
+<h2 style="color: #333333;">Experiences</h2>
+- 네이버 부스트캠프 웹·모바일 9기 (24-06 ~ 24-12)
 
 </div>
 <br/>
