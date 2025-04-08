@@ -24,8 +24,11 @@
 
 |Recent Post| Most Used Skills|
 |---|---|
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/?name=shipfriend)](https://velog-readme-stats.vercel.app/api/redirect?name=shipfriend) | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&locale=kr&layout=compact" alt="shipfriend0516" />|
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/?name=shipfriend)](https://velog-readme-stats.vercel.app/api/redirect?name=shipfriend) | |
 
+[![최신 글](https://shipfriend.vercel.app/api/posts/recent)](https://shipfriend.vercel.app/api/redirect/recent)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shipfriend0516&show_icons=true&&hide_border=true&locale=kr&layout=compact" alt="shipfriend0516" />
 
 </div>
 <br/>
