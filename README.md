@@ -15,7 +15,7 @@
 
 \- [WebRTC 면접 스터디 플랫폼 PREVIEW](https://github.com/boostcampwm-2024/web27-Preview) | (2024/11 ~ 2024/12)
 
-\- [교내 동아리 홈페이지](https://github.com/ShipFriend0516/Primitive) | (2024/03 ~ 2024/06)
+\- [티스토리 확장프로그램](https://github.com/ShipFriend0516/StoryHelper) | (2024/03 ~ 2024/06)
 
 
  
