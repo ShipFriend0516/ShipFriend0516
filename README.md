@@ -11,7 +11,7 @@
  
 <h2 style="color: #333333;">Projects</h2>
 
-\- [ShipFriend TechBlog](https://github.com/ShipFriend0516/TechBlog) | <span style="color: #666666;">(2025/01 ~ 2024/04)</span>
+\- [ShipFriend TechBlog](https://github.com/ShipFriend0516/TechBlog) | <span style="color: #666666;">(2025/01 ~ 2025/12)</span>
 
 \- [WebRTC 면접 스터디 플랫폼 PREVIEW](https://github.com/boostcampwm-2024/web27-Preview) | (2024/11 ~ 2024/12)
 
