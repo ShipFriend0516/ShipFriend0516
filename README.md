@@ -15,7 +15,7 @@
 
 \- [WebRTC 면접 스터디 플랫폼 PREVIEW](https://github.com/boostcampwm-2024/web27-Preview) | (2024/11 ~ 2024/12)
 
-\- [티스토리 확장프로그램](https://github.com/ShipFriend0516/StoryHelper) | (2024/03 ~ 2024/06)
+\- [티스토리 생산성 확장프로그램 StoryHelper (MAU 200+)](https://github.com/ShipFriend0516/StoryHelper) | (2024/03 ~ 2024/06)
 
 
  
