@@ -21,7 +21,7 @@
  
 <h2 style="color: #333333;">Experiences</h2>
 
-\- CJ 올리브영 글로벌 AI플랫폼팀 Software Engineer 인턴 (25-09 ~ 재직 중)
+\- CJ 올리브영 글로벌 AI플랫폼팀 Software Engineer 인턴 (25-09 ~ )
 
 \- 네이버 부스트캠프 웹·모바일 9기 웹풀스택 챌린지·멤버십 수료 (24-06 ~ 24-12)
 
