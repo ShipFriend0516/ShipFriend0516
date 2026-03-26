@@ -11,11 +11,11 @@
  
 <h2 style="color: #333333;">Projects</h2>
 
-\- [ShipFriend TechBlog](https://github.com/ShipFriend0516/TechBlog) | <span style="color: #666666;">(2025/01 ~ )</span>
+\- [ShipFriend TechBlog](https://github.com/ShipFriend0516/TechBlog) | <span style="color: #666666;">(2025/01 ~ 운영 중)</span>
 
 \- [WebRTC 면접 스터디 플랫폼 PREVIEW](https://github.com/boostcampwm-2024/web27-Preview) | (2024/11 ~ 2024/12)
 
-\- [티스토리 생산성 확장프로그램 StoryHelper (MAU 200+)](https://github.com/ShipFriend0516/StoryHelper) | (2024/03 ~ 2024/06)
+\- [티스토리 생산성 확장프로그램 StoryHelper (MAU 200+)](https://github.com/ShipFriend0516/StoryHelper) | (2024/03 ~ 지속 개선 중)
 
 
  
