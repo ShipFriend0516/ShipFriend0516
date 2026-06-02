@@ -1,4 +1,4 @@
-<h1>Developer Jeongwoo Seo 🌿</h1>
+<h1>Jeongwoo Seo 🌿</h1>
 
 \- 안녕하세요. 더 나은 개발자가 되기 위해 노력하고 있습니다.
 
