@@ -4,10 +4,10 @@
 
 <h2 style="color: #333333;">Blog  <img align="center" width="6px" alt="깃캣" src="https://github.githubassets.com/images/mona-loading-dark.gif"/></h2>
 
-\- [개인 개발 블로그](https://shipfriend.vercel.app)에 포스팅하고 있습니다.
+\- [개인 개발 블로그](https://shipfriend.dev)에 포스팅하고 있습니다.
 <br/>
 
-[![최신 글](https://shipfriend.vercel.app/api/posts/recent)](https://shipfriend.vercel.app/api/redirect/recent)
+[![최신 글](https://shipfriend.vercel.app/api/posts/recent)](https://shipfriend.dev/api/redirect/recent)
  
 <h2 style="color: #333333;">Projects</h2>
 
@@ -25,7 +25,7 @@
 
 \- CJ 올리브영 글로벌엔지니어링센터 AI플랫폼팀 인턴 (25-09 ~ 26-09)
 
-\- 네이버 부스트캠프 웹·모바일 9기 웹풀스택 챌린지·멤버십 수료 (24-06 ~ 24-12)
+\- 네이버 부스트캠프 웹·모바일 9기 웹풀스택 챌린지·멤버십 (24-06 ~ 24-12)
 
 
 </div>
